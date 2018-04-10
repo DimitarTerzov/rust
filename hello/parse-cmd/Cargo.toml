@@ -1,0 +1,6 @@
+[package]
+name = "parse-cmd"
+version = "0.1.0"
+authors = ["DimitarTerzov <dimiterat@gmail.com>"]
+
+[dependencies]
